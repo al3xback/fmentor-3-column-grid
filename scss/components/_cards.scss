@@ -55,4 +55,8 @@
 		grid-template-columns: 1fr 1fr 1fr;
 		max-width: func.em(920, var.$font-size-primary);
 	}
+
+	.card__btn {
+		margin-top: func.em(50, var.$font-size-primary);
+	}
 }
